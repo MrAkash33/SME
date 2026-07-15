@@ -1,5 +1,7 @@
 <div align="center">
 
+this total project in smeMaster-dev.zip
+
 # SMEMaster
 
 ### A local-first business workspace for email, CRM, campaigns, calendar, tasks, and automation
